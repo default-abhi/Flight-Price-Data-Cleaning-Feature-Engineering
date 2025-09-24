@@ -2,7 +2,7 @@
 This project performs an in-depth exploratory data analysis (EDA) on a flight price dataset. The primary goal is to uncover key factors that influence flight ticket prices through comprehensive data cleaning, feature engineering, and insightful visualizations.
 ## Key Activities
 ### Data Cleaning: 
-Handled missing values and standardized data formats across the dataset.
+- Handled missing values and standardized data formats across the dataset.
 
 ### Feature Engineering:
 Extracted Date, Month, and Year from the Date_of_Journey.
